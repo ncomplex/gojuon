@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://ncomplex.github.io/gojuon/static/css/main.1359096b.chunk.css",
+    "main.js": "https://ncomplex.github.io/gojuon/static/js/main.1245a627.chunk.js",
+    "runtime-main.js": "https://ncomplex.github.io/gojuon/static/js/runtime-main.1b4022d2.js",
+    "static/js/2.f230eb43.chunk.js": "https://ncomplex.github.io/gojuon/static/js/2.f230eb43.chunk.js",
+    "static/js/3.548f7ab2.chunk.js": "https://ncomplex.github.io/gojuon/static/js/3.548f7ab2.chunk.js",
+    "index.html": "https://ncomplex.github.io/gojuon/index.html",
+    "static/js/2.f230eb43.chunk.js.LICENSE.txt": "https://ncomplex.github.io/gojuon/static/js/2.f230eb43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b4022d2.js",
+    "static/js/2.f230eb43.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.1245a627.chunk.js"
+  ]
+}
